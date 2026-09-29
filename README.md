@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A5F,100:2D3250&height=220&section=header&text=Aryan&fontSize=70&fontColor=FFA630&animation=fadeIn&fontAlignY=38&desc=Civil%20Engineer%20by%20degree.%20Builder%20by%20habit.&descAlignY=58&descSize=20&descColor=E5E9F0" width="100%"/>
 
   <a href="https://github.com/chillpill999">
@@ -196,11 +196,11 @@ identity:
   <a href="https://github.com/chillpill999">
     <img src="https://img.shields.io/badge/GitHub-chillpill999-1E3A5F?style=for-the-badge&logo=github&logoColor=FFA630" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Kumar-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=FFA630" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/aryan-454b58228">
+    <img src="https://img.shields.io/badge/LinkedIn-Aryan-1E3A5F?style=for-the-badge&logo=linkedin&logoColor=FFA630" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-@chillpill999-1E3A5F?style=for-the-badge&logo=x&logoColor=FFA630" alt="Twitter" />
+  <a href="https://x.com/Rockstar_iitian">
+    <img src="https://img.shields.io/badge/X-@Rockstar__iitian-1E3A5F?style=for-the-badge&logo=x&logoColor=FFA630" alt="X" />
   </a>
   <a href="mailto:contact@thestudyflow.in">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-FFA630?style=for-the-badge&labelColor=1E3A5F&logo=gmail&logoColor=FFA630" alt="Email" />
